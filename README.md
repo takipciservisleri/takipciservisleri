@@ -21,6 +21,15 @@ Instagram takipçi satın alma rehberi hakkında detaylı bilgi için buraya gö
 
 En etkili yöntem, organik içerik üretimi ile stratejik büyüme planını birlikte yürütmektir.
 
----
+## Instagram Algoritması Nasıl Çalışır?
 
-Bu repo eğitim ve araştırma amaçlı hazırlanmıştır.
+Instagram algoritması; etkileşim oranı, gönderi kaydetme sayısı, yorum kalitesi ve izlenme süresini dikkate alır. Özellikle Reels içeriklerinde ilk 30 dakika kritik öneme sahiptir.
+
+## Etkileşim Oranı Nasıl Artırılır?
+
+- Hedef kitle analizi yapın  
+- Hikaye anketleri kullanın  
+- Kaydetmeye teşvik eden içerikler üretin  
+- Düzenli paylaşım planı oluşturun  
+
+Uzun vadeli büyüme için stratejik planlama şarttır.
